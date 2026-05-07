@@ -1,9 +1,4 @@
 # Employee Attendance Management System
-
-A web-based **Employee Attendance Management System** built using **Django, HTML templates, and SQLite**, designed to streamline attendance tracking and leave/work-from-home approvals.
-
----
-
 ## 📸 Screenshots
 
 ### 🖥️ Auth Screen
