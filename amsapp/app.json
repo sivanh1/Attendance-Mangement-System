@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "amsapp",
+    "slug": "amsapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+
+    "ios": {
+      "supportsTablet": true
+    },
+
+    "android": {
+      "package": "com.sivanh2.amsapp",
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE"
+      },
+      "usesCleartextTraffic": true
+    },
+
+    "web": {
+      "bundler": "metro",
+      "favicon": "./assets/favicon.png"
+    },
+
+    "extra": {
+      "eas": {
+        "projectId": "fddcd2f9-a276-4ba2-97c3-499029e78f9f"
+      }
+    },
+
+    "owner": "sivanh2"
+  }
+}
